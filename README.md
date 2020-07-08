@@ -12,6 +12,7 @@ For Dream。愿大家早日逃离 996 拿到自己心仪的 offer 。
 
 # System Design & Video
 
+* [Tech Dummies's System Design](https://www.youtube.com/c/TechDummiesNarendraL/playlists)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer?from=groupmessage)
 * [新竹交通大学：计算机操作系统设计与实现](https://www.bilibili.com/video/BV1qt411B7NF?spm_id_from=333.788.videocard.0)
 
