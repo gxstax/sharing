@@ -5,6 +5,8 @@ For Dream。愿大家早日逃离 996 拿到自己心仪的 offer 。
 
 [负雪明烛的博客](https://blog.csdn.net/fuxuemingzhu)
 
+[把arr中数字按照取模的结果归类，并计数](https://leetcode-cn.com/problems/check-if-array-pairs-are-divisible-by-k/solution/ba-arrzhong-shu-zi-an-zhao-qu-mo-de-jie-guo-gui-le/)
+
 # 面经
 
 * [字节跳动面试经验分享，已拿 Offer](https://mp.weixin.qq.com/s/GcoU9wWRVMXA3_JCZYb3Rg)
@@ -38,8 +40,13 @@ For Dream。愿大家早日逃离 996 拿到自己心仪的 offer 。
   * [一文详解 Canal Instance 设计理念与定制开发思路](https://mp.weixin.qq.com/s/9tS6G_Az64ToJiq-x2ZGpw)
   * [如何设计类似微信的多终端数据同步协议 | Grouk实践分享](https://mp.weixin.qq.com/s/2Ufzr3UXYcAuTOpc6W1qCQ)
   * [有赞透明多级缓存解决方案（TMC）](https://tech.youzan.com/tmc/)
+  * [案例实战：每日上亿请求量的电商系统，JVM年轻代垃圾回收参数如何优化？](https://mp.weixin.qq.com/s/TzCmEVa21wz9fB2UZjlOmg)
+  * [深度长文，秒杀系统的架构分析与实战，老板看完说：服了](https://mp.weixin.qq.com/s/CUTG32SaLST9nmhBP1PgkA)
 * 中间件
   * [Kafka为什么速度那么快？](https://mp.weixin.qq.com/s/qB5FVD69p4aIHkEa0z_xFw)
+  * [20道经典的Kafka面试题详解](https://time.geekbang.org/column/article/246934?from=groupmessage)
+  * [吃透了这些Redis知识点，面试官一定觉得你很NB](https://mp.weixin.qq.com/s/-6yesAyNmbYtXpnmp14UKA)
+  * [Redis大 key的发现与删除方法全解析](https://www.cnblogs.com/evakang/p/11610087.html?tt_from=weixin&utm_source=weixin&utm_medium=toutiao_ios&utm_campaign=client_share&wxshare_count=1)
 * 数据库
   * [数据库分库分表解决方案汇总](https://mp.weixin.qq.com/s/kESm-PLwaTbFgg5gPbX-0A)
   * [日均7亿交易量，如何设计高可用的MySQL架构？](https://mp.weixin.qq.com/s/UaH1mbt1PsmGWMxgsrq1Pw)
@@ -55,4 +62,11 @@ For Dream。愿大家早日逃离 996 拿到自己心仪的 offer 。
 * [基于Nginx的灰度发布引擎的设计和改进.pdf](./books/基于Nginx的灰度发布引擎的设计和改进.pdf)
 * [Git底层原理结构.pdf](./books/Git底层原理结构.pdf)
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+ 实体书：
+
+* [《Cassandra权威指南》](https://www.ituring.com.cn/book/9)
+* [《大型网站技术架构 核心原理与案例分析》](https://item.jd.com/11322972.html)
+* [《Redis 深度历险：核心原理与应用实践》](https://item.jd.com/12464009.html)
+* [《数据密集型应用系统设计》](https://item.jd.com/12464009.html)
 
